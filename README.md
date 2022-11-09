@@ -8,4 +8,8 @@ The purpose of the analysis is to understand Oahu temperature trends at opposite
 * There is more variance in minimum temperatures for June and December. In June the minimum temperature is 64 degrees and in December it is 56 degrees, for a difference of 8 degrees. The difference, although larger than the mean, is not as significant. The minimum temperature could be pulled from any time of day, such as early-mornings or late-evenings when the sun is down. These are not times we can expect the surf shop to be open and therefore this shouldn't have an impact to the business.
 * The maximum temperatures in June and December are the most similar. In June the maximum temperature is 85 degrees and in December it is 83 degrees, for a difference of only 2 degrees. This bodes well to demonstrate that temperature should have consistency throughout the year, and therefore would lead to a sustainable year-round business.
 
+![June_temps_summary_stats](https://user-images.githubusercontent.com/110419577/200931768-f4219037-4303-4511-9b02-00df83a454a0.png)
+
+![Dec_temps_summary_stats](https://user-images.githubusercontent.com/110419577/200931841-c30d2ef7-3684-44a4-a0d0-a9a740035abb.png)
+
 ## Summary
