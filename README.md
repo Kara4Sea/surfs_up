@@ -13,3 +13,5 @@ The purpose of the analysis is to understand Oahu temperature trends at opposite
 ![Dec_temps_summary_stats](https://user-images.githubusercontent.com/110419577/200931841-c30d2ef7-3684-44a4-a0d0-a9a740035abb.png)
 
 ## Summary
+Temperature results for June and December overall, show there is little temperature variance throughout the year that would negatively impact business.
+
